@@ -1,0 +1,3 @@
+﻿  catchnumbertry.cpp
+C:\Users\M Hasan Tomas\Desktop\SimpleGame\SimpleGame\catchnumbertry.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SimpleGame.vcxproj -> C:\Users\M Hasan Tomas\Desktop\SimpleGame\Debug\SimpleGame.exe
